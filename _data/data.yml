@@ -1,0 +1,233 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+sidebar:
+  position: right # position of the sidebar: left or right
+  about: True # set to False or comment the line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in the main section instead of the sidebar
+
+  # Profile information
+  name: Athimni Hamza
+  tagline: Software Engineering Student
+  avatar: prof.jpg  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: hamzaathimni180@gmail.com
+  phone: "+216 27.166.278"
+  timezone:
+  citizenship:
+  website:  # do not add http://
+  linkedin: hamza athimni
+  xing: 
+  github: https://github.com/mizo30
+  telegram: 27166278 # add your nickname without the '@' sign
+  gitlab:
+  bitbucket:
+  twitter: 
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: https://drive.google.com/file/d/17wCdvYMq7wrxWgUYCi2GIWQrkpQUubGs/view
+
+languages:
+  title: Languages
+  info:
+    - idiom: English
+      level: normal
+
+    - idiom: French
+      level: normal
+
+    - idiom: Arabic
+      level: Native
+
+interests:
+  title: Interests
+  info:
+    - item: Coding
+      link:
+
+    - item: Solving Problems
+      link:
+
+    - item: Drift
+      link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+    I am a second year software engineering student. I am a young computer enthusiast with a lot of creativity. Currently, I am doing an internship at the startup Yasline Engineering, where I am working on a web and cloud development project. This internship allows me to perfect my development skills while contributing to innovative projects. I also had the opportunity to work on several projects. I am a dynamic young man, overflowing with creativity.
+
+education:
+  title: Education
+  info:
+    - degree: Computer Science Degree
+      university: University of Kef
+      time: 2021 - Present
+
+    - degree: Bachelor in Computer Science
+      university: Hamouda Besha
+      time: 2021
+
+experiences:
+  title: Experiences
+  info:
+    - role: Intern
+      time: 2023 - Present
+      company: Startup Yasline Engineering, Tunisia, Rue Lac Mälaren, Immeuble Citadelle, Les Berges du Lac 1
+      details: |
+        Right now, I'm doing an internship at Yasline Engineering, a startup specializing in the cloud. My internship aims to deepen my knowledge of development while actively participating in innovative projects, and working on a project to develop my skills in web and cloud , while contributing to innovative projects and Implementing version control for the project using Git and hosting the repository on platforms like GitHub or GitLab.
+      
+
+certifications:
+  title: Certifications
+  list:
+    - name: Youth Coding Camp
+      start: 2022
+      end:
+      organization: Ministry of Youth and Sports
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: |
+        The Youth Coding Camp Certification is awarded to individuals who successfully completed the immersive coding camp conducted by the Ministry of Youth and Sports. The certification recognizes the participant's dedication, commitment, and proficiency in coding and programming concepts during the camp.
+    - name: Bootcamp T2D Tunisia Towards Digitalization
+      start: 2022
+      end:
+      organization: Ministry of Youth and Sports
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: |
+        The Youth Leadership Excellence Certification, issued by the Ministry of Youth and Sports, acknowledges the outstanding leadership skills and commitment demonstrated by the recipient. This certification is a testament to the individual's dedication to personal growth and community empowerment.
+    - name: Défi Robotique 2021
+      start: 2021
+      end:
+      organization: Ministry of Youth and Sports
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: |
+        Défi Robotique 2021 is an annual robotics competition organized by the Ministry of Youth and Sports. The event serves as a platform for robotics enthusiasts, engineers, and students to showcase their technical prowess and innovation in the field of robotics.
+    - name: Technique de Travail de Cinéma
+      start: 2019
+      end:
+      organization: BBC
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: |
+        Technique de Travail de Cinéma 2019 was a comprehensive workshop organized by BBC. The workshop aimed to provide participants with practical insights and hands-on experience in various aspects of filmmaking techniques.
+        
+projects:
+  title: Projects
+  intro: >
+    I had the opportunity to work on several projects, which allowed me to gain practical experience in development. Some of the projects to which I have contributed include:
+  assignments:
+    - title: Responsive Completed Website for the Institute
+      link: "#"
+      tagline: "The Responsive Completed Website for the Institute is a comprehensive online platform designed to enhance the institute's online presence, provide valuable information to students, faculty, and visitors, and ensure seamless access across various devices."
+
+    - title: Responsive Completed Website for Car Rental Management
+      link: "#"
+      tagline: "The Responsive Completed Website for Car Rental Management is a dynamic online platform designed to facilitate efficient and convenient car rental services. It enables users to easily browse available vehicles, make reservations, and manage their bookings, all while ensuring a seamless experience across various devices."
+
+    - title: Responsive Completed Website for Online Food Ordering
+      link: "#"
+      tagline: "The Responsive Completed Website for Online Food Ordering is a comprehensive digital platform designed to revolutionize the way customers engage with food services. This platform allows users to effortlessly browse menus, place orders, and experience the convenience of online food delivery, all while ensuring a seamless experience across various devices."
+
+    - title: Responsive Completed Website for Hospital Management
+      link: "#"
+      tagline: "The Responsive Completed Website for Hospital Management is a comprehensive digital platform designed to streamline and enhance the management and communication processes within a hospital setting. This platform offers patients, staff, and administrators an efficient way to access information, schedule appointments, and manage medical services, all while ensuring a seamless experience across various devices."
+
+    - title: Responsive Completed Website for Bookstore
+      link: "#"
+      tagline: "The Responsive Completed Website for the Bookstore is a dynamic digital platform designed to provide book enthusiasts with a seamless and convenient way to explore, purchase, and engage with a diverse range of books. The website offers an immersive online bookstore experience, ensuring compatibility across various devices."
+
+    - title: Responsive Portfolio Website
+      link: "#"
+      tagline: "The Responsive Portfolio Website is a modern and visually engaging online platform designed to showcase an individual's skills, projects, and accomplishments. This website serves as a digital portfolio, enabling users to present their work, experiences, and expertise in a captivating and user-friendly manner."
+
+oss:
+  title: Future Work Plan for Skill Development
+  intro: >
+    This future work plan outlines my strategy to enhance my skills in web development and information security. The plan aims to provide a structured approach to learning, practicing and applying these skills.
+  contributions:
+
+    - title: Self-Assessment and Goal Setting
+      link: "#"
+      tagline: "Evaluate my current knowledge and skills in web development and IT security."
+
+    - title: Learning Web Development Fundamentals
+      link: "#"
+      tagline: "Start with HTML, CSS, and JavaScript to build a strong foundation in front-end development.Explore responsive design techniques to ensure websites work across various devices and screen sizes.Study user experience (UX) principles to create intuitive and user-friendly interfaces."
+
+    - title: Back-End Development
+      link: "#"
+      tagline: "Learn a back-end programming language such as Python, Node.js, or PHP.Understand server-side scripting, databases (SQL or NoSQL), and RESTful API development."
+
+    - title: Full-Stack Development
+      link: "#"
+      tagline: "Combine front-end and back-end skills to become a full-stack developer.Develop projects that involve both client-side and server-side components."
+
+    - title: Cloud Services and Security
+      link: "#"
+      tagline: "Explore cloud platforms like AWS, Azure, or Google Cloud to understand their services and offerings.Learn about security practices specific to cloud environments, such as identity and access management (IAM) and network security configurations."
+
+    - title: Networking and Containerization
+      link: "#"
+      tagline: "Study containerization with Docker and container orchestration with Kubernetes.Understand how to secure containerized applications and manage networking within a containerized environment."
+
+    - title: Web Application Firewalls (WAF) and Intrusion Detection
+      link: "#"
+      tagline: "Understand the role of WAFs and intrusion detection systems in protecting web applications.Explore how to set up and configure these tools to monitor and prevent attacks."
+
+    - title: Secure Coding Practices
+      link: "#"
+      tagline: "Practice secure coding by applying principles like least privilege, input validation, and escaping user input.Study techniques to avoid common security pitfalls during development."                
+
+    - title: Bug Bounty and Capture The Flag (CTF) Challenges
+      link: "#"
+      tagline: "Participate in bug bounty programs to identify vulnerabilities in real-world applications.Solve CTF challenges to enhance problem-solving skills related to security."
+
+skills:
+  title: My Skills & Proficiency
+  toolset:
+    - name: Python
+      level: 68%
+
+    - name: Java
+      level: 88%
+
+    - name: JEE
+      level: 85%
+
+    - name: C# & C++
+      level: 85%
+
+    - name: HTML & CSS
+      level: 90%
+
+    - name: Javascript & jQuery
+      level: 90%
+
+    - name: Laravel
+      level: 78%
+
+    - name: Ruby
+      level: 45%
+
+    - name: Arduino
+      level: 55%
+
+    - name: Oracle
+      level: 75%
+
+    - name: Anaconda Python
+      level: 65%
+
+    - name: Graphic Design
+      level: 90%
+
+footer: >
+  Designed with by <a href="" target="_blank" rel="nofollow">Hamza_Athimni</a>
